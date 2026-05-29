@@ -1,0 +1,5 @@
+azure-functions
+azure-storage-blob
+feedparser
+azure-ai-textanalytics
+pyodbc
